@@ -5,4 +5,5 @@
 - [Mentimeter](https://www.mentimeter.com/)
 
 ## New ideas
-- Wikipedia game browser extension 
+- Wikipedia game browser extension
+- Untappd Rust API crate
