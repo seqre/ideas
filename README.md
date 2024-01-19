@@ -8,3 +8,4 @@
 - Wikipedia game browser extension
 - Untappd Rust API crate
 - SMB mass enumeration tool (eg. connect to many available shares and dump file system tree)
+- NFS interactive client
