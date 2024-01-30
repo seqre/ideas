@@ -10,3 +10,4 @@
 - SMB mass enumeration tool (eg. connect to many available shares and dump file system tree)
 - NFS interactive client
 - Default creds on website checker (with database of them and some smart matching)
+- Scope checker / calculator
