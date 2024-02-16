@@ -14,3 +14,4 @@
 
 ## Rust wrappers
 - Nuclei
+- [Magika](https://github.com/google/magika)
