@@ -12,6 +12,8 @@
 - Default creds on website checker (with database of them and some smart matching)
 - Scope checker / calculator
 
-## Rust wrappers
+## Rust wrappers / APIs
 - Nuclei
 - [Magika](https://github.com/google/magika)
+- VirusTotal API
+
