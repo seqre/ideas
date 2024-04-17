@@ -10,7 +10,8 @@
 - SMB mass enumeration tool (eg. connect to many available shares and dump file system tree)
 - NFS interactive client
 - Default creds on website checker (with database of them and some smart matching)
-- Scope checker / calculator
+- Scope checker / calculator (WIP)
+- Interactive password sprayer (passwords & users, pass for specific users, queue, UI, daemon?)
 
 ## Rust wrappers / APIs
 - Nuclei
