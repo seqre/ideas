@@ -19,4 +19,5 @@
 - VirusTotal API
 - Maintained [csvtomd](https://github.com/mplewis/csvtomd)
 - Windows Password Filter
+- Python wrapper for [dehashed-rs](https://crates.io/crates/dehashed-rs)
 
